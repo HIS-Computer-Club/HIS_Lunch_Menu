@@ -698,19 +698,19 @@
 	</array>
 	<key>connectors</key>
 	<dict>
-		<key>05A6D3E0-10C0-4447-A56A-87D1672C8AD4</key>
-		<dict>
-			<key>from</key>
-			<string>948BB0F8-A3EE-4E66-887E-999D6CEFFD53 - 948BB0F8-A3EE-4E66-887E-999D6CEFFD53</string>
-			<key>to</key>
-			<string>8DDFCBC6-B273-44DA-B23C-0A70DD4471CE - 8DDFCBC6-B273-44DA-B23C-0A70DD4471CE</string>
-		</dict>
-		<key>9AC23B11-F422-43AF-ACBD-BDB98378DFE8</key>
+		<key>47349599-1A0B-4E79-8BA7-314B7860FE34</key>
 		<dict>
 			<key>from</key>
 			<string>F2C5F6B8-D030-4189-A6EF-0467C999F963 - F2C5F6B8-D030-4189-A6EF-0467C999F963</string>
 			<key>to</key>
 			<string>948BB0F8-A3EE-4E66-887E-999D6CEFFD53 - 948BB0F8-A3EE-4E66-887E-999D6CEFFD53</string>
+		</dict>
+		<key>A9578D55-C909-433C-820C-19F582460BE6</key>
+		<dict>
+			<key>from</key>
+			<string>948BB0F8-A3EE-4E66-887E-999D6CEFFD53 - 948BB0F8-A3EE-4E66-887E-999D6CEFFD53</string>
+			<key>to</key>
+			<string>8DDFCBC6-B273-44DA-B23C-0A70DD4471CE - 8DDFCBC6-B273-44DA-B23C-0A70DD4471CE</string>
 		</dict>
 	</dict>
 	<key>variables</key>
@@ -729,7 +729,7 @@
 	<key>workflowMetaData</key>
 	<dict>
 		<key>workflowTypeIdentifier</key>
-		<string>com.apple.Automator.workflow</string>
+		<string>com.apple.Automator.application</string>
 	</dict>
 </dict>
 </plist>
